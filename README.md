@@ -1,4 +1,4 @@
-# Hi ther, i'm Dmytro Samykov! 👋
+# Hi there, i'm Dmytro Samykov! 👋
 
 ## About myself
 - 🏠 Based in Berlin
