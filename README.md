@@ -25,7 +25,7 @@
 
 ## Contact
 - 📧 Email: dsamykov1996@gmail.com
-- 💬 Telegram: [@dsamykov](https://t.me/dsamykov)
+- 💬 LinkedIn : [Dmytro Samykov](www.linkedin.com/in/dmitry-samykov-7a03b5392)
 
 ---
 
