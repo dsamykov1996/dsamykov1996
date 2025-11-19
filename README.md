@@ -9,9 +9,9 @@
 ---
 
 ## My skills
-- **Programing Languages**: Python
-- **Web Technologies**: HTML, CSS
-- **Tools & Platforms: **Git, GitHub, VS Code**
+- **Programing Languages**: **Python**
+- **Web Technologies**: **HTML, CSS**
+- **Tools & Platforms**: **Git, GitHub, VS Code**
 
 ---
 
